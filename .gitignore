@@ -1,0 +1,12 @@
+# Môi trường ảo
+.venv/
+
+# Dữ liệu và model nặng
+Data/
+Model/
+*.zip
+
+# File rác của Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
