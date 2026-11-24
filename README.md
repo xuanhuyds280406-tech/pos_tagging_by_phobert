@@ -141,7 +141,6 @@ Notebook fine-tune được viết để chạy trên **Google Colab (GPU)**. C�
 ---
  
 ## 6. Tác giả
- 
-**Huy** — sinh viên Digital Marketing, UEH.
-Liên hệ: `<email hoặc link GitHub/LinkedIn>`
+
+**Đây là dự án nhóm thực hiện bởi nhóm sinh viên môn NLP tại UEH**
  
